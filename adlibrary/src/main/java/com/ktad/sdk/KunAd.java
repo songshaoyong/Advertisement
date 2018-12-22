@@ -87,6 +87,8 @@ public class KunAd {
 //                Log.d(TAG, "onResponse: " + response.body().string());
             }
         });
+
+
     }
 
     public void onDestroy( Context context) {
